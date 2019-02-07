@@ -1,0 +1,7 @@
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\bin\Debug\Employee-Details.exe.config
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\bin\Debug\Employee-Details.exe
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\bin\Debug\Employee-Details.pdb
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\obj\Debug\Employee-Details.csprojAssemblyReference.cache
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\obj\Debug\Employee-Details.csproj.CoreCompileInputs.cache
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\obj\Debug\Employee-Details.exe
+C:\Users\krittika\source\repos\Employee-Details\Employee-Details\obj\Debug\Employee-Details.pdb
